@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$firebase",
+				"$firebaseArray"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"route",
+				"angular: $routeProvider"
+			],
+			[
+				"con",
+				"angular: controller"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ato/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Ato/proyectos/loteria/index.html",
+		"/Users/Ato/proyectos/loteria/app/ver-pagos/ver-pagos.js",
+		"/Users/Ato/proyectos/loteria/pages/nuevo-pago.html",
+		"/Users/Ato/proyectos/loteria/css/materialize/components/_variables.scss",
+		"/Users/Ato/proyectos/loteria/css/estilo.css",
+		"/Users/Ato/proyectos/loteria/css/prueba.scss",
+		"/Users/Ato/proyectos/homestead/lgapi/composer.json",
+		"/Users/Ato/proyectos/homestead/lgapi/config/app.php",
+		"/Users/Ato/proyectos/homestead/lgpro/resources/views/home.blade.php",
+		"/Users/Ato/.homestead/Homestead.yaml",
+		"/Users/Ato/proyectos/lgapi/.env.example",
+		"/Applications/MAMP/htdocs/lgpro-ci/application/config/config.php",
+		"/Applications/MAMP/htdocs/lgpro-ci/.htaccess",
+		"/Users/www/lgpro/database/seeds/DatabaseSeeder.php",
+		"/Users/www/lgpro/database/seeds/UserTableSeeder.php",
+		"/Users/www/lgpro/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/www/limperatore/wp-content/themes/builder/page.php",
+		"/Users/www/lgpro/.env",
+		"/Users/www/laravel/resources/views/login.blade.php",
+		"/Users/www/laravel/config/app.php",
+		"/Users/www/laravel/composer.json",
+		"/Users/www/laravel/resources/views/prueba2.php",
+		"/Users/www/laravel/app/Http/routes.php",
+		"/Users/www/laravel/resources/views/welcome.blade.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/htdocs/phpversion/index.php",
+		"/Users/Ato/Google Drive/Desarrollo/lg-pro/presupuestos/flyers.html",
+		"/Users/Ato/Google Drive/Desarrollo/lg-pro/app.js",
+		"/Users/Ato/Google Drive/Desarrollo/lg-pro/presupuestos/flyers.js",
+		"/Users/Ato/Google Drive/Desarrollo/lg-pro/index.html",
+		"/Users/Ato/Google Drive/Desarrollo/style.css",
+		"/Users/Ato/Google Drive/Desarrollo/plantilla-bt.html",
+		"/Users/Ato/Documents/startbootstrap-freelancer-1.0.3/index.html",
+		"/Users/Ato/Documents/Desarrollo/lg-pro/paginas/flyers.html",
+		"/Users/Ato/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ato/Documents/Desarrollo/lg-pro/index.hmtl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item",
+			"1",
+			"importe",
+			"firebaseAuth",
+			"$secondary-color",
+			"$input-focus-color",
+			"!default",
+			"$secondary-color ",
+			"$input-focus-color",
+			"color",
+			"input-focus-color",
+			"$input-focus-color;",
+			"virtual",
+			"button",
+			"=\"\"></",
+			"app",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.581576478377,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}
