@@ -58,6 +58,8 @@ define ("CONSULTA", 'Consulta');
 define ("ENVIAR", 'Enviar');
 define ("PASIONYAMOR", 'Pasión y Amor son nuestra fuerza');
 define ("PIZZEROS", 'Pizzeros');
+define ("SELLOTITULO", 'Sello de Garantía WORLD PIZZA TENERIFE');
+define ("SELLOTEXTO", 'La asociación WORLD PIZZA TENERIFE concede este sello a aquellos restaurantes que cumplen con las exigencias de calidad necesarias para pertenecer a esta asociación. <br>Busca este sello en tu restaurante para garantizar una máxima satisfacción.');
 define ("NOMIRAMOS", 'No miramos al esfuerzo,<br>
 No miramos al sacrificio,<br>
 No vemos al tiempo empleado ni al dinero gastado.<br>

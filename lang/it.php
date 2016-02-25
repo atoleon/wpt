@@ -142,4 +142,6 @@ Il corso avrá una durata di 8 ore con il quale si studieranno il procedimento t
 I corsi si realizzeranno nelle diverse istituzioni presenti nel territorio che possono essere pizzerie o centri specializzati.');
 
 define ("DESFORM", 'Scaricare modulo di registrazione per Pizzero .');
+define ("SELLOTITULO", 'Sello de Garantía WORLD PIZZA TENERIFE');
+define ("SELLOTEXTO", 'La asociación WORLD PIZZA TENERIFE concede este sello a aquellos restaurantes que cumplen con las exigencias de calidad necesarias para pertenecer a esta asociación. <br>Busca este sello en tu restaurante para garantizar una máxima satisfacción.');
 ?>

@@ -59,64 +59,73 @@ include ("lang/". $_SESSION["idioma"] .".php");
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <div class="container">       
+    <div class="container">
+        <!-- SELLO GARANTÍA -->
+        <div class="row">
+          <div class="col-sm-4 col-md-3">
+            <img src="img/sello-wpt.jpg" alt="sello garantía world pizza tenerife">
+          </div>
+          <div class="col-sm-8 col-md-9">
+            <h2 style="color: red"><?php echo SELLOTITULO ?></h2>
+            <h3><?php echo SELLOTEXTO ?></h3>
+          </div>
+        </div>
+        <!-- /SELLO GARANTÍA --> 
+
+        <hr class="featurette-divider">
+
         <!-- COLABORADORES
         ---------------------------------->
         <div class="row">
-         <!--Nonna Rina -->
+         <!--Limperatore -->
           <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-              <img src="img/colaboradores/nonarina.jpg" alt="nonna rina">
+              <img src="img/pizzerias/limperatore/portada.jpg" alt="Limperatore">
               <div class="caption colaborador">
-                <h3>Nonna Rina</h3>
+                <h3>L'imperatore</h3>
                 <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
-                <span>Valle San Lorenzo</span><br>
+                <span>Crta General tf -28 nº141, Valle San Lorenzo</span><br>
                 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <span>999 666 333</span><br>
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <span>dirección@dominio.com</span><br>
-                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                <span>www.dirección.com</span>
+                <span>922 76 73 24 </span><br>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
+                <span>Lunes a Domingo 19h – 23:30h</span><br>
+                <span>Martes cerrado</span><br>
               </div>
             </div>
           </div>
-          <!-- //Nonna Rina -->
-          <!--Nonna Rina -->
+          <!-- //Limperatore -->
+          <!--Wairua -->
           <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-              <img src="img/colaboradores/4landing.jpg" alt="nonna rina">
+              <img src="img/pizzerias/wairua/portada.jpg" alt="Wairua">
               <div class="caption colaborador">
-                <h3>4 Landing</h3>
+                <h3>Pizzería Wairua</h3>
                 <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
-                <span>Valle San Lorenzo</span><br>
+                <span>Calle San Francisco, El Médano</span><br>
                 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <span>999 666 333</span><br>
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <span>dirección@dominio.com</span><br>
-                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                <span>www.dirección.com</span>
+                <span>922 179 580</span><br>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span>
+                <span>Miercoles a Viernes de 19h – 23:30h</span><br>
+                <span>Sábado y Domingo de 13h a 15:30 y 19h – 23:30h</span><br>
+                <span>Lunes y Martes cerrado</span><br>
               </div>
             </div>
           </div>
-          <!-- //Nonna Rina -->
-          <!--Nonna Rina -->
+          <!-- //Wairua -->
+          <!--Thats Amore -->
           <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-              <img src="img/colaboradores/deunsolouso.jpg" alt="nonna rina">
+              <img src="img/pizzerias/thatsamore/portada.jpg" alt="Thats Amore">
               <div class="caption colaborador">
-                <h3>De Un Sólo Uso</h3>
+                <h3>That's Amore</h3>
                 <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
-                <span>Valle San Lorenzo</span><br>
+                <span>Calle Villa de la Orotava, 3. El Médano</span><br>
                 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <span>999 666 333</span><br>
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <span>dirección@dominio.com</span><br>
-                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                <span>www.dirección.com</span>
+                <span>630 23 91 02</span><br>
               </div>
             </div>
           </div>
-          <!-- //Nonna Rina -->
+          <!-- //Thats Amore -->
         </div>
     </div>
 

@@ -123,6 +123,54 @@ include ("lang/". $_SESSION["idioma"] .".php");
                             <li>
                                 <img src="img/curso-photos/slide3.jpg" /></a>
                             </li>
+                            <li>
+                                <img src="img/curso-photos/slide3.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide4.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide5.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide6.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide7.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide8.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide9.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide10.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide11.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide12.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide13.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide14.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide15.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide16.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide17.jpg" /></a>
+                            </li>
+                            <li>
+                                <img src="img/curso-photos/slide18.jpg" /></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
