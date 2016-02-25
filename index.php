@@ -50,44 +50,13 @@ include ("lang/". $_SESSION["idioma"] .".php");
     <?php include ("assets/navigator.php"); ?>
 
 
-    <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class=""></li>
-        <li class="active" data-target="#myCarousel" data-slide-to="1"></li>
-        <li class="" data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner" role="listbox">
-        <div class="item">
-          <img class="first-slide" class="img-responsive" src="img/home-slider/1.jpg" alt="First slide">
-          <div class="container">
-           
-          </div>
-        </div>
-        <div class="item active">
-          <img class="second-slide" class="img-responsive" src="img/home-slider/4.jpg" alt="Second slide">
-          <div class="container">
-            
-          </div>
-        </div>
-        <div class="item">
-          <img class="third-slide" class="img-responsive" src="img/home-slider/5.jpg" alt="Third slide">
-          <div class="container">
-            
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div><!-- /.carousel -->
+    <!-- SLIDER -->
+    <ul class="rslides">
+      <li><img src="img/home-slider/1.jpg" alt=""></li>
+      <li><img src="img/home-slider/4.jpg" alt=""></li>
+      <li><img src="img/home-slider/5.jpg" alt=""></li>
+    </ul>
+    <!-- /SLIDER -->
 
     <!-- Marketing messaging and featurettes
     ================================================== -->
@@ -178,6 +147,13 @@ include ("lang/". $_SESSION["idioma"] .".php");
     <script src="assets/js/vendor/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+    <!-- Responsive Slider -->
+    <script src="assets/responsiveslides.min.js"></script>
+    <script>
+      $(function() {
+        $(".rslides").responsiveSlides();
+      });
+    </script>
   
 
 </body>
