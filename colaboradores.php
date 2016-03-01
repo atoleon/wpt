@@ -415,60 +415,24 @@ include ("lang/". $_SESSION["idioma"] .".php");
         <!-- COLABORADORES
         ---------------------------------->
         <div class="row">
-         <!--Nonna Rina -->
+         <!--Seranca -->
           <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-              <img src="img/colaboradores/nonarina.jpg" alt="nonna rina">
+              <img src="img/colaboradores/seranca.jpg" alt="seranca">
               <div class="caption colaborador">
-                <h3>Nonna Rina</h3>
+                <h3>Servicios  Antiplagas de Canarias,  S.L.U.</h3>
                 <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
-                <span>Valle San Lorenzo</span><br>
+                <span>C/ Fernando Beautell, 25. Pol. Ind. Costa Sur</span><br>
                 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <span>999 666 333</span><br>
+                <span>922 22 00 00 / 699 445 445</span><br>
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <span>dirección@dominio.com</span><br>
+                <span>publicidad@seranca.com</span><br>
                 <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                <span>www.dirección.com</span>
+                <span> <a href="www.seranca.com">www.seranca.com</a></span>
               </div>
             </div>
           </div>
-          <!-- //Nonna Rina -->
-          <!--Nonna Rina -->
-          <div class="col-sm-6 col-md-4">
-            <div class="thumbnail">
-              <img src="img/colaboradores/4landing.jpg" alt="nonna rina">
-              <div class="caption colaborador">
-                <h3>4 Landing</h3>
-                <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
-                <span>Valle San Lorenzo</span><br>
-                <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <span>999 666 333</span><br>
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <span>dirección@dominio.com</span><br>
-                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                <span>www.dirección.com</span>
-              </div>
-            </div>
-          </div>
-          <!-- //Nonna Rina -->
-          <!--Nonna Rina -->
-          <div class="col-sm-6 col-md-4">
-            <div class="thumbnail">
-              <img src="img/colaboradores/deunsolouso.jpg" alt="nonna rina">
-              <div class="caption colaborador">
-                <h3>De Un Sólo Uso</h3>
-                <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
-                <span>Valle San Lorenzo</span><br>
-                <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                <span>999 666 333</span><br>
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                <span>dirección@dominio.com</span><br>
-                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                <span>www.dirección.com</span>
-              </div>
-            </div>
-          </div>
-          <!-- //Nonna Rina -->
+          <!-- //Seranca -->
         </div>
       </div>
     </div>
