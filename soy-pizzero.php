@@ -131,6 +131,8 @@ include ("lang/". $_SESSION["idioma"] .".php");
     <script src="assets/js/vendor/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
-  
+
+    <script src="jquery-2.1.0.min.js"></script>
+    <script src="assets/app.js"></script>
 
 </body>

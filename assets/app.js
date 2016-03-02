@@ -26,11 +26,11 @@ $(function() {
 		    // Set the message text.
 		    $(formMessages).text(response);
 
-		    // Clear the form.
+		    /* Clear the form.
 		    $('#name').val('');
 		    $('#email').val('');
 		    $('#phone').val('');
-		    $('#message').val('');
+		    $('#message').val('');*/
 		}).fail(function(data) {
 		    // Make sure that the formMessages div has the 'error' class.
 		    $(formMessages).removeClass('successMail');
