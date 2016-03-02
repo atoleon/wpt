@@ -6,7 +6,7 @@ define ("COLABORADORES", 'Colaboradores');
 define ("CONTACTO", 'Contacto');
 define ("SOYPIZZERIA", 'Soy Pizzería');
 define ("SOYPIZZERO", 'Soy Pizzero');
-define ("CURSOS", 'Cursos');
+define ("CURSOS", 'Escuela para pizzeros');
 define ("DONDECOMER", 'Dónde comer');
 
 define ("PIZZERO", "Pizza, Pizzero y Calidad.");
@@ -24,9 +24,9 @@ define ("LAMISMA", 'La misma palabra lo dice todo. Tener una empresa, es una emp
 define ("NOMBRE", 'nombre');
 define ("TELEFONO", 'teléfono');
 define ("MASINFO", 'más información');
-define ("HAZTESOCIO", 'haztesocio');
+define ("HAZTESOCIO", 'hazte socio');
 define ("ESTEOFICIO", 'Este oficio tiene no más de 100 años. Con nuestra arte y conocimiento hemos llegado a conquistar los lugares más extremos del planeta. No hay país que no sepa que es una Pizza. Este producto representa una parte muy importante en la alimentación cotidiana mundial y en los últimos años los valores de la artesanía y la comprensión para los esfuerzo de esta profesión ha subido una desvalorización a causa de un mercado muy inflaccionado. Nuestro objetivo es recuperar el tiempo perdido y devolver la importancia que merece esta profesión.');
-define ("ESCUELAPIZZERO", 'Escuela para pizzeros');
+define ("ESCUELAPIZZERO", 'Curso profesional de pizzero avanzado [40 horas]');
 define ("CURSOBASE", 'Curso base dirigid a pizzeros y aspirantes pizzeros con una duración de 40 horas repartidas en 5-10 días a conveniencia del instructor. A cada aspirante Pizzero se le entregará un kit completo con maletín, libreta de apuntes, camiseta, gorra, delantal y el manual del Pizzero. Los cursos se realizarán en los diferentes establecimientos presentes en el territorio que pueden ser Pizzerías o Centros especializados.');
 define ("QUEOBTIENES", 'Qué obtienes con este curso');
 define ("HABILIDADES", 'Habilidades');
@@ -73,15 +73,17 @@ define ("LAMISMARES", 'La misma palabra lo dice todo. Tener una empresa, es una 
 define ("ESTEOFICIORES", 'Este oficio tiene no más de 100 años. Con nuestra arte y conocimiento hemos llegado a conquistar los lugares más extremos del planeta.');
 define ("CURSOBASERES", 'Curso base dirigid a pizzeros y aspirantes pizzeros con una duración de 40 horas...');
 
-define ("CURSOESPECIALIZACION", 'Curso Especialización');
+define ("CURSOESPECIALIZACION", 'Curso de especialización <br>[10 horas curso base]<br>[20 horas curso avanzado]');
 define ("CETEXTO", 'Curso especializado para preparar y obtener una buena masa y más digerible con dos procesos importante: la maduración y el proceso de la levadura.<br> 
 Se explicarán los diferentes tipos de harina, sus características y su refuerzo con la levadura, así que para convertirse en un pizzero más completo.<br>
 Duración del curso de 8 horas donde el maestro instructor nos guiará con las nociones de teoría y práctica.<br>
 Los cursos se realizarán en los diferentes establecimientos presentes en el territorio que pueden ser Pizzerías o Centros especializados. ');
-define ("CURSOBANDEJA", 'Curso Pizza en Bandeja');
+define ("CURSOBANDEJA", 'Curso Pizza en Bandeja <br>[10 horas]');
 define ("CBTEXTO", 'Curso de especialización en la producción de pizza en bandeja clásica.<br>
 El curso tendrá una duración de 8 horas y se le explicará el procedimiento teórico y práctico de las leyes físicas y de los ingredientes fundamentales que caracterizan el tipo de masa.<br>
 Los cursos se realizarán en los diferentes establecimientos presentes en el territorio que pueden ser Pizzerías o Centros especializados.');
 define ("DESFORM", 'Descarga formulario de alta para pizzeros.');
+define ("FORMALTAPIZZERO", "Formulario de alta para Pizzeros");
+define ("APELLIDO", "Apellido");
 
 ?>

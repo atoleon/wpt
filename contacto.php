@@ -92,11 +92,6 @@ include ("lang/". $_SESSION["idioma"] .".php");
                 </div>
                 <div class="col-md-6">
                     <p class="texto-base">
-                        <span class="glyphicon glyphicon-home contacto" aria-hidden="true"></span>
-                        Ctra. Gral. Valle San Lorenzo, 141 <br>
-                        Valle San Lorenzo
-                    </p>
-                    <p class="texto-base">
                         <span class="glyphicon glyphicon-earphone contacto" aria-hidden="true"></span>
                         638 553 017 / 627 087 618
                     </p>

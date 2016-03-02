@@ -66,37 +66,54 @@ include ("lang/". $_SESSION["idioma"] .".php");
                    <?php echo SOYPIZZERO ?>
                </p>
                 <p class="texto-base">
-                    <?php echo ESTEOFICIO ?>
-                    <hr class="featurette-divider">
-                    <div class="col-md-2">
-                      <a href="assets/modelo-pizzeros.pdf">
-                        <img src="img/pdf-logo.png" class="img-responsive" alt="formulario de alta pizzero">  
-                      </a>
-                    </div>
-                    <div class="col-md-10 texto-base">
-                      <?php echo DESFORM ?>  
-                    </div>                    
+                    <?php echo ESTEOFICIO ?>              
                 </p>
             </div>
             <div class="col-md-5">
-               <br>
-                <form id="ajax-contact" method="post" action="assets/mail.php">
+               <p class="subtitulo">
+                   <?php echo FORMALTAPIZZERO ?>
+               </p>
+                <form id="ajax-contact" method="post" action="assets/mail-alta-pizzero.php">
                   <div class="form-group">
                     <label for="name"><?php echo NOMBRE ?></label>
                     <input type="text" class="form-control" id="name" name="name" placeholder="Nombre">
                   </div>
                   <div class="form-group">
-                    <label for="email">E-Mail</label>
-                    <input type="email" class="form-control" id="email" name="email" placeholder="E-mail">
+                    <label for="surname"><?php echo APELLIDO ?></label>
+                    <input type="text" class="form-control" id="surname" name="surname" placeholder="Apellido">
                   </div>
                   <div class="form-group">
-                    <label for="phone"><?php echo TELEFONO ?></label>
+                    <label for="dni"><?php echo "DNI" ?></label>
+                    <input type="text" class="form-control" id="dni" name="dni" placeholder="DNI">
+                  </div>
+                  <div class="form-group">
+                    <label for="address"><?php echo "Dirección" ?></label>
+                    <input type="text" class="form-control" id="address" name="address" placeholder="Dirección">
+                  </div>
+                  <div class="form-group">
+                    <label for="birthdate"><?php echo "Fecha de nacimiento dd/mm/aaaa" ?></label>
+                    <input type="text" class="form-control" id="birthdate" name="birthdate" placeholder="Fecha de nacimiento">
+                  </div>
+                  <div class="form-group">
+                    <label for="nacionality"><?php echo "Nacionalidad" ?></label>
+                    <input type="text" class="form-control" id="nacionality" name="nacionality" placeholder="Nacionalidad">
+                  </div>
+                  <div class="form-group">
+                    <label for="civilstatus"><?php echo "Estado civil" ?></label>
+                    <input type="text" class="form-control" id="civilstatus" name="civilstatus" placeholder="Estado civil">
+                  </div>
+                  <div class="form-group">
+                    <label for="phone"><?php echo "Teléfono" ?></label>
                     <input type="text" class="form-control" id="phone" name="phone" placeholder="Teléfono">
                   </div>
                   <div class="form-group">
-                   <label for="message"><?php echo MASINFO ?></label>
-                    <textarea id="message" name="message" class="form-control" rows="3"></textarea>
-                  </div>              
+                    <label for="mobile"><?php echo "Teléfono móvil" ?></label>
+                    <input type="text" class="form-control" id="mobile" name="mobile" placeholder="Teléfono móvil">
+                  </div>
+                  <div class="form-group">
+                    <label for="email">E-Mail</label>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="E-mail">
+                  </div>
                   <button type="submit" class="btn btn-danger"><?php echo HAZTESOCIO ?></button>
                 </form>
                 <div id="form-messages"></div>
